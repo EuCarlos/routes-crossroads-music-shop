@@ -1,0 +1,27 @@
+{
+  "name": "routes-crossroads-example",
+  "authors": [
+    "Carlos Alves <carlosalves369m@hotmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "keywords": [
+    "routes",
+    "crossroad-js",
+    "example",
+    "tests"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/eucarlos/router-crossroads-example",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "crossroads.js": "^0.12.2",
+    "hasher": "^1.2.0"
+  }
+}
