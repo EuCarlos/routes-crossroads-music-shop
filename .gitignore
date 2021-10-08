@@ -1,0 +1,7 @@
+node_modules
+bower_components
+test
+tests
+sass/global.css.map
+.vscode
+settings.json
