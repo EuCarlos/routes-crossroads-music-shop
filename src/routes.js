@@ -2,6 +2,8 @@ crossroads.addRoute('/', () => render("HOME"))
 
 crossroads.addRoute('/products', () => render("PRODUCTS"))
 
+crossroads.addRoute('/about', () => render("ABOUT"))
+
 crossroads.addRoute('/contact-us', () => render("CONTACT-US"))
 
 
