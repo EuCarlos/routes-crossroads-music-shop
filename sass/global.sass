@@ -10,5 +10,60 @@ body
     background: $color-background
     color: $color-white
 
-// .page
-//     display: none
+.container
+    width: 100% 
+    position: sticky
+.content  
+    width: 60rem 
+.center  
+    display: flex 
+    flex-direction: column 
+    align-items: center
+
+h1  
+    color: $color-primary
+
+h1  
+    text-align: center 
+
+p  
+    color: $color-white
+
+p  
+    text-align: justify
+    
+.forms 
+    background: $color-aux
+    border-radius: .5rem 
+    padding: 2rem 
+    margin: 2rem 5rem
+
+.forms > form  
+    display: flex 
+    flex-direction: column
+
+input, textarea  
+    padding: .5rem .7rem 
+    border: solid 4px $color-dark 
+    margin: .3rem 0 
+    resize: none 
+    outline: none
+
+#name  
+    border-radius: 0 .5em 0 0
+textarea  
+    border-radius: 0 0 .5rem .5rem 
+    border-color: $color-background
+
+#button-contact  
+    background: $color-dark 
+    color: white 
+    border: none 
+    padding: 1rem 0 
+    margin-top: .5rem 
+    width: 12rem 
+    cursor: pointer 
+    font-weight: bold 
+
+#button-contact:hover  
+    filter: brightness(.8) 
