@@ -7,7 +7,7 @@
 - [x] Create routes
 - [ ] Create Pages:
     - [ ] HOME
-    - [ ] PRODUCT
+    - [x] PRODUCT
     - [x] ABOUT
     - [x] CONTACT US
 - [x] Add Menu
