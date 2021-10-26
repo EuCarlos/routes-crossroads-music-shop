@@ -1,5 +1,5 @@
 const PRODUCTS = `
-<h1 style="margin-top: 2rem;">CONTACT US</h1>
+<h1 style="margin-top: 2rem;">PRODUCTS</h1>
 <main>
 	<section class="cards">
 		<div class="card">
