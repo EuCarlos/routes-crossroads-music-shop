@@ -5,8 +5,8 @@
 
 ### TO DO
 - [x] Create routes
-- [ ] Create Pages:
-    - [ ] HOME
+- [x] Create Pages:
+    - [x] HOME
     - [x] PRODUCT
     - [x] ABOUT
     - [x] CONTACT US
