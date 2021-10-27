@@ -12,7 +12,7 @@
     - [x] CONTACT US
 - [x] Add Menu
 - [x] Add Footer
-- [ ] Add Modals
+- [x] Add Modals
 
 ### Installation
 First install bower globally using node
