@@ -2,7 +2,7 @@ const ABOUT = `
     <div class="container center">
         <div class="content about">
             <div id="image">
-                <img src="https://via.placeholder.com/400x593" alt="Image about">
+                <img src="https://images.unsplash.com/photo-1531651008558-ed1740375b39?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=387&q=80" alt="Image about">
                 <div id="describe-about">
                     <h1>CONTACT US</h1>
                     <p>
