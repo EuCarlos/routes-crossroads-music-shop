@@ -6,7 +6,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repo
-        uses: actions/checkout@master
+        uses: eucarlos/routes-crossroads-music-shop@master
 
       - name: Compress Images
         uses: calibreapp/webp-optimizer@master
