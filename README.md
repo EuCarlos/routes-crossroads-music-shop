@@ -1,18 +1,7 @@
-# routes with crossroads.js (example)
-🔄 Repository for building routes without using nodejs
+# Music Shop
+🔄 Purpose of the repository is to create Music Shop and build routes without using NodeJS
 
 <hr>
-
-### TO DO
-- [x] Create routes
-- [x] Create Pages:
-    - [x] HOME
-    - [x] PRODUCT
-    - [x] ABOUT
-    - [x] CONTACT US
-- [x] Add Menu
-- [x] Add Footer
-- [x] Add Modals
 
 ### Installation
 First install bower globally using node
@@ -21,7 +10,7 @@ npm install -g bower
 ```
 Fork and Clone the repo:
 ```
-git clone https://github.com/<your-user>/routes-crossroads-example.git && cd routes-crossroads-example
+git clone https://github.com/<your-user>/routes-crossroads-music-shop.git && cd routes-crossroads-music-shop
 ```
 **Install the packages:**
 Install packages listed in the `bower.json` file using Bower
